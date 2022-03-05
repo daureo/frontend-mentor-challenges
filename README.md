@@ -26,8 +26,8 @@ Quick solution to my first challenge on Frontend Mentor project.
 
 ### Links
 
-- Solution URL: [https://github.com/daureo/frontend-mentor.git](https://github.com/daureo/frontend-mentor.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/daureo/frontend-mentor-challenges-qr-code.git](https://github.com/daureo/frontend-mentor-challenges-qr-code.git)
+- Live Site URL: [https://daureo.github.io/frontend-mentor-challenges-qr-code/](https://daureo.github.io/frontend-mentor-challenges-qr-code/)
 
 ## My process
 
@@ -51,7 +51,7 @@ Still crawling the first moves on coding HTML + CSS after getting into some stud
 
 ### Useful resources
 
-- [https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer] () - This helped me all the way down and is still my primary resource. 
+- [https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer] (https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer) - This helped me all the way down and is still my primary resource. 
 
 ## Author
 
