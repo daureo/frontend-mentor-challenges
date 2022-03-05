@@ -51,7 +51,7 @@ Still crawling the first moves on coding HTML + CSS after getting into some stud
 
 ### Useful resources
 
-- [https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer] (https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer) - This helped me all the way down and is still my primary resource. 
+- [https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer] - This helped me all the way down and is still my primary resource. 
 
 ## Author
 
